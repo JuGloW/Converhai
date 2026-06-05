@@ -1,0 +1,1 @@
+﻿Conversion doctrine and tooling for translating external languages into Haicode/hai*.
